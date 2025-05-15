@@ -783,7 +783,7 @@ export default function Home() {
                 </motion.a>
 
                 <motion.a
-                  href="/PRINCE JANGRA NEW.pdf.pdf.pdf"
+                  href="https://www.linkedin.com/in/prince-jangra-6079a0209/"
                   className="flex items-center gap-3 px-6 py-4 bg-gray-900 rounded-xl hover:bg-gray-800 transition-all"
                   whileHover={{ y: -5, boxShadow: "0 10px 25px -5px rgba(255, 255, 255, 0.1)" }}
                 >
@@ -792,7 +792,7 @@ export default function Home() {
                 </motion.a>
 
                 <motion.a
-                  href="/PRINCE JANGRA NEW.pdf.pdf.pdf"
+                  href="https://github.com/Princejangra146"
                   className="flex items-center gap-3 px-6 py-4 bg-gray-900 rounded-xl hover:bg-gray-800 transition-all"
                   whileHover={{ y: -5, boxShadow: "0 10px 25px -5px rgba(255, 255, 255, 0.1)" }}
                 >

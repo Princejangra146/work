@@ -8,7 +8,17 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Modern Portfolio",
   description: "A modern portfolio website showcasing projects and designs",
-    generator: 'v0.dev'
+  generator: 'v0.dev',
+  icons: {
+    icon: '/logo.svg',
+    apple: '/logo.svg',
+    shortcut: '/logo.svg'
+  },
+  openGraph: {
+    title: "Modern Portfolio",
+    description: "A modern portfolio website showcasing projects and designs",
+    type: 'website'
+  }
 }
 
 export default function RootLayout({
