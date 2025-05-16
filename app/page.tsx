@@ -819,7 +819,7 @@ export default function Home() {
                 </p>
 
                 <motion.a
-                  href="/PRINCE JANGRA NEW.pdf.pdf.pdf"
+                  href="/Resume.pdf"
                   className="inline-flex items-center gap-2 bg-white text-black px-6 py-3 rounded-lg font-medium hover:bg-gray-200 transition-colors"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
